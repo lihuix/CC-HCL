@@ -4,11 +4,10 @@ The representation encoder of the proposed SACC is ResNet34.
 
 |    Dataset    | NMI  | ACC  | ARI  |
 | :-----------: | :--: | :--: | :--: |
-|   CIFAR-10    | 76.5 | 85.1 | 72.4 |
-|   CIFAR-100   | 44.8 | 44.3 | 28.2 |
-|    STL-10     | 69.1 | 75.9 | 62.6 |
-|  ImageNet-10  | 87.7 | 90.5 | 84.3 |
-| ImageNet-dogs | 45.5 | 43.7 | 28.5 |
+|   CIFAR-10    | 70.3 | 80.2 | 66.0 |
+|   CIFAR-100   | 49.3 | 47.7 | 32.8 |
+|  ImageNet-10  | 88.0 | 94.6 | 88.5 |
+| ImageNet-dogs | 47.3 | 45.3 | 32.1 |
 
 ## Dependency
 
