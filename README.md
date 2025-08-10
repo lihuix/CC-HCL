@@ -1,6 +1,6 @@
 This is a Pytorch implementation of the paper. ()
 
-![network](figures/图1.png)
+![network](figures/图1.PDF)
 
 ## Performance
 
